@@ -1,0 +1,84 @@
+---
+- item: "spire.intro:axon"
+  recipe:
+    scrap_metal: 20
+    sparkdust: 2
+- item: 'spire.intro:shank'
+  recipe:
+    scrap_metal: 20
+    leather: 10
+- item: 'spire.intro:aetherrobe'
+  recipe:
+    aethersilk: 50
+- item: 'spire.intro:alms'
+  recipe:
+    aetherplasm: 10
+    leather: 10
+- item: 'spire.intro:dusters'
+  recipe: 
+    scrap_metal: 35
+    tools: 'spire.intro:blowtorch'
+- item: 'spire.intro:blackjack'
+  recipe:
+    leather: 30
+    scrap_metal: 10
+- item: 'spire.intro:jerkin'
+  recipe:
+    leather: 55
+- item: 'spire.intro:boots'
+  recipe:
+    leather: 45
+- item: 'spire.intro:highboots'
+  recipe:
+    leather: 65
+- item: 'spire.intro:leatherpouch'
+  recipe:
+    leather: 35
+- item: 'spire.labyrinth:hatchet'
+  recipe:
+    scrap_metal: 120
+    piston: 2
+    gear: 2
+    tools: 'spire.intro:blowtorch'
+- item: 'spire.labyrinth:boneclub'
+  recipe:
+    bone: 25
+- item: 'spire.labyrinth:bonehelm'
+  recipe:
+    bone: 35
+- item: 'spire.labyrinth:scraphelm'
+  recipe:
+    scrap_metal: 80
+    leather: 10
+    gear: 2 
+    tools: 'spire.intro:blowtorch'
+- item: 'spire.labyrinth:scrapchestplate'
+  recipe:
+    scrap_metal: 100
+    leather: 20
+    piston: 10 
+    tools: 'spire.intro:blowtorch'
+
+- item: 'spire.intro:bonebroth'
+  recipe:
+    bone: 10
+- item: 'spire.intro:elixir'
+  recipe:
+    aetherplasm: 10
+    bone: 10
+- item: 'spire.labyrinth:flashbomb'
+  recipe:
+    sparkdust: 20
+    leather: 4
+- item: 'spire.labyrinth:scrapbomb'
+  recipe:
+    sparkdust: 25
+    scrap_metal: 25
+    leather: 4
+- item: 'spire.labyrinth:lifesupport'
+  recipe: 
+    scrap_metal: 25
+    sparkdust: 5
+    items: 'spire.labyrinth:crackedlifesupport'
+    tools: 'spire.intro:blowtorch'
+

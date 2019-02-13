@@ -1,0 +1,26 @@
+---
+scrap_metal:
+  title: Scrap Metal
+  quality: common
+gear:
+  title: Gear
+  quality: uncommon
+piston:
+  title: Piston
+  quality: uncommon
+aethersilk:
+  title: Aethersilk
+  quality: rare
+leather:
+  title: Leather
+  quality: common
+aetherplasm:
+  title: Aetherplasm
+  quality: rare
+bone: 
+  title: Bone
+  quality: common
+sparkdust:
+  title: Sparkdust
+  quality: rare
+
