@@ -8,7 +8,7 @@ module.exports = (srcPath, bundlePath) => {
 
   const say = B.sayAt;
   const CommandManager = require(srcPath + 'CommandManager');
-  const Crafting = require(bundlePath + 'myelin-crafting/lib/Crafting');
+  const Crafting = require(bundlePath + 'complex-crafting/lib/Crafting');
   const ItemUtil = require(bundlePath + 'myelin-lib/lib/ItemUtil');
 
   const subcommands = new CommandManager();
